@@ -6,7 +6,81 @@
     {
       "id": "mathematics",
       "name": "Mathematics",
-      "resources": []
+      "years": [
+        {
+          "id": "first-year",
+          "name": "First Year",
+          "semesters": [
+            {
+              "id": "first-semester",
+              "name": "First Semester",
+              "courses": []
+            },
+            {
+              "id": "second-semester",
+              "name": "Second Semester",
+              "courses": []
+            }
+          ]
+        },
+        {
+          "id": "second-year",
+          "name": "Second Year",
+          "semesters": [
+            {
+              "id": "first-semester",
+              "name": "First Semester",
+              "courses": []
+            },
+            {
+              "id": "second-semester",
+              "name": "Second Semester",
+              "courses": []
+            }
+          ]
+        },
+        {
+          "id": "third-year",
+          "name": "Third Year",
+          "semesters": [
+            {
+              "id": "first-semester",
+              "name": "First Semester",
+              "courses": []
+            },
+            {
+              "id": "second-semester",
+              "name": "Second Semester",
+              "courses": []
+            }
+          ]
+        },
+        {
+          "id": "fourth-year",
+          "name": "Fourth Year",
+          "semesters": [
+            {
+              "id": "first-semester",
+              "name": "First Semester",
+              "courses": []
+            },
+            {
+              "id": "second-semester",
+              "name": "Second Semester",
+              "courses": []
+            }
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "academic_information": [],
+  "ai_settings": {
+    "enabled": true,
+    "language": "en-bn",
+    "search_sources": [
+      "departments",
+      "academic_information"
+    ]
+  }
 }
