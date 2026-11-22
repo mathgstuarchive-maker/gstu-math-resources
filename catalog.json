@@ -1,7 +1,7 @@
 {
   "project": "GSTU Mathematics Resource Hub",
   "version": 1,
-  "last_updated": "",
+  "last_updated": "2026-11-22T17:45:12.751Z",
   "departments": [
     {
       "id": "mathematics",
@@ -30,7 +30,29 @@
             {
               "id": "first-semester",
               "name": "First Semester",
-              "courses": []
+              "courses": [
+                {
+                  "id": "vector-analysis",
+                  "name": "Vector Analysis",
+                  "chapters": [
+                    {
+                      "id": "chapter-01-vector",
+                      "number": "01",
+                      "name": "vector",
+                      "resources": [
+                        {
+                          "id": "20261122-174501-vector-analysis-pdf",
+                          "title": "vector",
+                          "file_name": "20261122_174501_Vector_Analysis.pdf",
+                          "type": "pdf",
+                          "download_url": "https://raw.githubusercontent.com/mathgstuarchive-maker/gstu-math-resources/main/pdfs/20261122_174501_Vector_Analysis.pdf",
+                          "uploaded_at": "2026-11-22T17:45:12.751Z"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               "id": "second-semester",
