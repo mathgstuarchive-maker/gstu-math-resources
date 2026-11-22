@@ -1,0 +1,12 @@
+{
+  "project": "GSTU Mathematics Resource Hub",
+  "version": 1,
+  "last_updated": "",
+  "departments": [
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "resources": []
+    }
+  ]
+}
