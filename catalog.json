@@ -1,7 +1,7 @@
 {
   "project": "GSTU Mathematics Resource Hub",
   "version": 1,
-  "last_updated": "2026-11-22T17:45:12.751Z",
+  "last_updated": "2026-11-23T10:04:59.892Z",
   "departments": [
     {
       "id": "mathematics",
@@ -14,7 +14,32 @@
             {
               "id": "first-semester",
               "name": "First Semester",
-              "courses": []
+              "courses": [
+                {
+                  "id": "mat101-algebra",
+                  "name": "MAT101 - Algebra",
+                  "chapters": [
+                    {
+                      "id": "chapter-01-introduction-to-algebra",
+                      "number": "Chapter 01",
+                      "name": "Introduction to Algebra",
+                      "resources": [
+                        {
+                          "id": "res-1795428299892",
+                          "title": "Introduction to Algebra",
+                          "filename": "Bangla_Statistics_Note.pdf",
+                          "number": "Chapter 01",
+                          "path": "pdfs/first-year/first-semester/mat101-algebra/chapter-01-introduction-to-algebra/1795428297820_Bangla_Statistics_Note.pdf",
+                          "url": "https://raw.githubusercontent.com/mathgstuarchive-maker/gstu-math-resources/main/pdfs/first-year/first-semester/mat101-algebra/chapter-01-introduction-to-algebra/1795428297820_Bangla_Statistics_Note.pdf",
+                          "github_url": "https://github.com/mathgstuarchive-maker/gstu-math-resources/blob/main/pdfs/first-year/first-semester/mat101-algebra/chapter-01-introduction-to-algebra/1795428297820_Bangla_Statistics_Note.pdf",
+                          "type": "pdf",
+                          "uploaded_at": "2026-11-23T10:04:59.892Z"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             },
             {
               "id": "second-semester",
