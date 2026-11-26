@@ -1,0 +1,17 @@
+{
+  "source": "https://www.gstu.edu.bd/dev/dept/faculty.php?id=math",
+  "fetched_at": "2026-11-24",
+  "teachers": [
+    {"id": 1, "name": "Dipankar Kumar, Ph.D.", "designation": "Professor", "phone": "+88-01722-285442", "email": "dks.bsmrstu@gmail.com", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=1"},
+    {"id": 2, "name": "Muhammad Minarul Islam, Ph.D.", "designation": "Professor", "phone": "+880-1741355251", "email": "minarul_math@gstu.edu.bd", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=2"},
+    {"id": 3, "name": "Md. Sirajul Islam", "designation": "Associate Professor", "phone": "+88-01308-954777", "email": "sirajulku@gmail.com", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=3"},
+    {"id": 4, "name": "Samir Chandra Ray, Ph.D.", "designation": "Associate Professor", "phone": "+8801718-131196", "email": "Samir.ku03@gmail.com", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=4"},
+    {"id": 7, "name": "Dr. Mohammad Rafiqul Islam", "designation": "Associate Professor", "phone": "+8801712918693", "email": "mribsmrstu@yahoo.com", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=7"},
+    {"id": 10, "name": "Nahida Akter", "designation": "Assistant Professor", "phone": "01790-235327", "email": "nahida.bsmrstu18@gmail.com", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=10"},
+    {"id": 15, "name": "Most. Rozina Khatun", "designation": "Assistant Professor", "phone": "01642349913", "email": "rozinakhatun@gstu.edu.bd, rozina.rekha24@gmail.com", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=15"},
+    {"id": 6, "name": "Suman Chandra Paul", "designation": "Assistant Professor", "phone": "", "email": "Sumonpaul30@gmail.com", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=6"},
+    {"id": 9, "name": "Sabina Yesmin", "designation": "Assistant Professor", "phone": "", "email": "Syeasmin681@gmail.com", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=9"},
+    {"id": 13, "name": "Mitu Sultana", "designation": "Assistant Professor", "phone": "+8801711129851", "email": "s.mitu@gstu.edu.bd", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=13"},
+    {"id": 11, "name": "Faria Ahmed Shami", "designation": "Assistant Professor", "phone": "+8801911013482", "email": "fariashami@gstu.edu.bd", "profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=11"}
+  ]
+}

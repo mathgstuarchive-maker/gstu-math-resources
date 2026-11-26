@@ -1,0 +1,1625 @@
+{
+ "meta": {
+  "department": "Mathematics, Gopalganj Science and Technology University",
+  "source": "Semester_Wise_Class_Routine_GSTU_Editable PDF (সর্বশেষ আপলোড, 2026-11-24)",
+  "class_days": [
+   "Sunday",
+   "Monday",
+   "Tuesday",
+   "Wednesday",
+   "Thursday"
+  ],
+  "weekend": [
+   "Friday",
+   "Saturday"
+  ],
+  "timezone": "Asia/Dhaka",
+  "time_slots": [
+   {
+    "slot": 1,
+    "start": "09:00",
+    "end": "09:50"
+   },
+   {
+    "slot": 2,
+    "start": "09:50",
+    "end": "10:40"
+   },
+   {
+    "slot": 3,
+    "start": "10:40",
+    "end": "11:30"
+   },
+   {
+    "slot": 4,
+    "start": "11:30",
+    "end": "12:20"
+   },
+   {
+    "slot": 5,
+    "start": "12:20",
+    "end": "13:10"
+   },
+   {
+    "slot": 6,
+    "start": "13:30",
+    "end": "14:20"
+   },
+   {
+    "slot": 7,
+    "start": "14:20",
+    "end": "15:10"
+   },
+   {
+    "slot": 8,
+    "start": "15:10",
+    "end": "16:00"
+   }
+  ],
+  "break": {
+   "start": "13:10",
+   "end": "13:30",
+   "note": "স্লট ৫ ও ৬ এর মাঝের বিরতি"
+  },
+  "how_to_read": "প্রতিটি এন্ট্রি সাপ্তাহিক পুনরাবৃত্ত। start_slot থেকে end_slot পর্যন্ত একটানা ক্লাস (যেমন ল্যাব ২ স্লট)। ছুটি, পরীক্ষা বা ক্লাস বাতিলের তথ্য এই ফাইলে নেই।",
+  "classes_with_empty_routine_in_pdf": [
+   "1-2",
+   "3-1",
+   "4-2"
+  ],
+  "classes_not_in_pdf": [
+   "5-1 (এবং 3-1/4-2 ফাঁকা)"
+  ],
+  "verify_notes": [
+   "2-1 সোমবার MAT211 এর রুম PDF-তে 'R3' লেখা; আমি R308 ধরেছি (অন্য দিনে R308)।",
+   "2-2 বুধবার CSE288 ঘরে শিক্ষক কোড MBMA লেখা, কিন্তু নিচের তালিকায় CSE288 এর শিক্ষক ABMA; আমি ABMA ধরেছি।",
+   "2-1 এ শিক্ষক 'Faria Ahmed Shorni (FAS)', অথচ ওয়েবসাইটে 'Faria Ahmed Shami'; একই ব্যক্তি ধরে ওয়েবসাইটের প্রোফাইলের সাথে যুক্ত করেছি।",
+   "1-1 এ MK ও MKH একই শিক্ষক (Dr. Mohammad Kamal Hossain)।",
+   "4-1 এর 'Saiful Islam (SI)' ওয়েবসাইটের 'Md. Sirajul Islam' এর সাথে মিলিয়ে দেখা হয়নি; আলাদা ধরেছি।",
+   "বিভিন্ন সেমিস্টারের সেশনের বছর PDF-তে আলাদা (যেমন 1-1: 2025-2026, 2-1: 2024-2025)।",
+   "রবিবার ৯:৫০-১০:৪০ স্লটে Shamima Akter (SA) দুই জায়গায়: 1-1 এর MAT100 (ল্যাব) ও 3-2 এর MAT363। PDF-তেই এমন আছে; আলী ভাই দুটোই দেখাবে, আপনি রুটিনে যাচাই করুন।"
+  ]
+ },
+ "courses": [
+  "AIS225",
+  "CSE287",
+  "CSE288",
+  "CSE395",
+  "CSE396",
+  "ECO277",
+  "ENG125",
+  "MAT100",
+  "MAT101",
+  "MAT111",
+  "MAT121",
+  "MAT200",
+  "MAT201",
+  "MAT211",
+  "MAT221",
+  "MAT251",
+  "MAT261",
+  "MAT271",
+  "MAT272",
+  "MAT353",
+  "MAT363",
+  "MAT373",
+  "MAT381",
+  "MAT382",
+  "MAT393",
+  "MAT401",
+  "MAT403",
+  "MAT411",
+  "MAT421",
+  "MAT431",
+  "MAT441",
+  "PHY135",
+  "PHY235",
+  "PHY236",
+  "PHY295",
+  "STA145",
+  "STA245",
+  "STA246"
+ ],
+ "teachers": [
+  {
+   "id": "dipankar-kumar",
+   "short_codes": [
+    "DK"
+   ],
+   "full_name": "Dr. Dipankar Kumar",
+   "website_profile_id": 1,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=1",
+   "courses_taught": [
+    "MAT111",
+    "MAT271",
+    "MAT272"
+   ]
+  },
+  {
+   "id": "nahida-akter",
+   "short_codes": [
+    "NA"
+   ],
+   "full_name": "Nahida Akther",
+   "website_profile_id": 10,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=10",
+   "courses_taught": [
+    "MAT121",
+    "MAT251"
+   ]
+  },
+  {
+   "id": "samir-chandra-ray",
+   "short_codes": [
+    "SCR"
+   ],
+   "full_name": "Dr. Samir Chandra Ray",
+   "website_profile_id": 4,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=4",
+   "courses_taught": [
+    "MAT101",
+    "MAT353"
+   ]
+  },
+  {
+   "id": "matiur-rahman",
+   "short_codes": [
+    "MMR"
+   ],
+   "full_name": "Dr. MD. Matiur Rahman",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "STA145"
+   ]
+  },
+  {
+   "id": "shamima-akter",
+   "short_codes": [
+    "SA"
+   ],
+   "full_name": "Shamima Akter",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "MAT100",
+    "MAT363",
+    "MAT421"
+   ]
+  },
+  {
+   "id": "halima-khatun",
+   "short_codes": [
+    "MHK"
+   ],
+   "full_name": "Dr. Most. Halima Khatun",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "PHY135",
+    "PHY295"
+   ]
+  },
+  {
+   "id": "sumia-alam",
+   "short_codes": [
+    "SuA"
+   ],
+   "full_name": "Sumia Alam",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "ENG125"
+   ]
+  },
+  {
+   "id": "kamal-hossain",
+   "short_codes": [
+    "MK",
+    "MKH"
+   ],
+   "full_name": "Dr. Mohammad Kamal Hossain",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "STA145"
+   ]
+  },
+  {
+   "id": "faria-ahmed",
+   "short_codes": [
+    "FAS"
+   ],
+   "full_name": "Faria Ahmed Shorni",
+   "website_profile_id": 11,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=11",
+   "courses_taught": [
+    "MAT211"
+   ]
+  },
+  {
+   "id": "nur-e-asrafi",
+   "short_codes": [
+    "NEA"
+   ],
+   "full_name": "Dr. Nur-E-Asrafi",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "PHY235",
+    "PHY236"
+   ]
+  },
+  {
+   "id": "rozina-khatun",
+   "short_codes": [
+    "MRK"
+   ],
+   "full_name": "Mst. Rozina Khatun",
+   "website_profile_id": 15,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=15",
+   "courses_taught": [
+    "MAT200",
+    "MAT441"
+   ]
+  },
+  {
+   "id": "suman-chandra-paul",
+   "short_codes": [
+    "SCP"
+   ],
+   "full_name": "Sumon Chandra Paul",
+   "website_profile_id": 6,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=6",
+   "courses_taught": [
+    "MAT201",
+    "MAT393",
+    "MAT403"
+   ]
+  },
+  {
+   "id": "ashik-uz-zaman",
+   "short_codes": [
+    "AUZ"
+   ],
+   "full_name": "Ashik-Uz-Zaman",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "AIS225"
+   ]
+  },
+  {
+   "id": "sabina-yeasmin",
+   "short_codes": [
+    "SY"
+   ],
+   "full_name": "Sabina Yeasmin",
+   "website_profile_id": 9,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=9",
+   "courses_taught": [
+    "MAT221",
+    "MAT261"
+   ]
+  },
+  {
+   "id": "biplab-bishwas",
+   "short_codes": [
+    "BB"
+   ],
+   "full_name": "Dr. Biplab Bishwas",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "STA245",
+    "STA246"
+   ]
+  },
+  {
+   "id": "abu-bakkar-muhammad-abdullah",
+   "short_codes": [
+    "ABMA",
+    "MBMA"
+   ],
+   "full_name": "Abu Bakkar Muhammad Abdullah",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "CSE287",
+    "CSE288"
+   ]
+  },
+  {
+   "id": "rakibul-hasan",
+   "short_codes": [
+    "RH"
+   ],
+   "full_name": "Rakibul Hasan",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "ECO277"
+   ]
+  },
+  {
+   "id": "mitu-sultana",
+   "short_codes": [
+    "MS"
+   ],
+   "full_name": "Mitu Sultana",
+   "website_profile_id": 13,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=13",
+   "courses_taught": [
+    "MAT373"
+   ]
+  },
+  {
+   "id": "nesarul-haque",
+   "short_codes": [
+    "MNH"
+   ],
+   "full_name": "MD. Nesarul Haque",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "CSE395",
+    "CSE396"
+   ]
+  },
+  {
+   "id": "minarul-islam",
+   "short_codes": [
+    "MMI"
+   ],
+   "full_name": "Dr. Muhammad Minarul Islam",
+   "website_profile_id": 2,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=2",
+   "courses_taught": [
+    "MAT381",
+    "MAT382",
+    "MAT401"
+   ]
+  },
+  {
+   "id": "rafiqul-islam",
+   "short_codes": [
+    "MRI"
+   ],
+   "full_name": "Dr. Mohammad Rafiqul Islam",
+   "website_profile_id": 7,
+   "website_profile_url": "https://www.gstu.edu.bd/dev/dept/profile.php?dept=math&id=7",
+   "courses_taught": [
+    "MAT411"
+   ]
+  },
+  {
+   "id": "saiful-islam",
+   "short_codes": [
+    "SI"
+   ],
+   "full_name": "Saiful Islam",
+   "website_profile_id": null,
+   "website_profile_url": null,
+   "courses_taught": [
+    "MAT431"
+   ]
+  }
+ ],
+ "classes": [
+  {
+   "class": "1-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 1,
+   "end_slot": 2,
+   "start": "09:00",
+   "end": "10:40",
+   "course_code": "MAT100",
+   "teacher_code": "SA",
+   "teacher_id": "shamima-akter",
+   "room": "LAB",
+   "is_lab": true
+  },
+  {
+   "class": "1-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 3,
+   "end_slot": 3,
+   "start": "10:40",
+   "end": "11:30",
+   "course_code": "STA145",
+   "teacher_code": "MMR",
+   "teacher_id": "matiur-rahman",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "MAT101",
+   "teacher_code": "SCR",
+   "teacher_id": "samir-chandra-ray",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 1,
+   "end_slot": 1,
+   "start": "09:00",
+   "end": "09:50",
+   "course_code": "STA145",
+   "teacher_code": "MK",
+   "teacher_id": "kamal-hossain",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "MAT121",
+   "teacher_code": "NA",
+   "teacher_id": "nahida-akter",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 3,
+   "end_slot": 3,
+   "start": "10:40",
+   "end": "11:30",
+   "course_code": "MAT111",
+   "teacher_code": "DK",
+   "teacher_id": "dipankar-kumar",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 4,
+   "end_slot": 4,
+   "start": "11:30",
+   "end": "12:20",
+   "course_code": "PHY135",
+   "teacher_code": "MHK",
+   "teacher_id": "halima-khatun",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 1,
+   "end_slot": 1,
+   "start": "09:00",
+   "end": "09:50",
+   "course_code": "STA145",
+   "teacher_code": "MK",
+   "teacher_id": "kamal-hossain",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "MAT111",
+   "teacher_code": "DK",
+   "teacher_id": "dipankar-kumar",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 3,
+   "end_slot": 3,
+   "start": "10:40",
+   "end": "11:30",
+   "course_code": "MAT101",
+   "teacher_code": "SCR",
+   "teacher_id": "samir-chandra-ray",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 4,
+   "end_slot": 4,
+   "start": "11:30",
+   "end": "12:20",
+   "course_code": "ENG125",
+   "teacher_code": "SuA",
+   "teacher_id": "sumia-alam",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 1,
+   "end_slot": 1,
+   "start": "09:00",
+   "end": "09:50",
+   "course_code": "PHY135",
+   "teacher_code": "MHK",
+   "teacher_id": "halima-khatun",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "MAT101",
+   "teacher_code": "SCR",
+   "teacher_id": "samir-chandra-ray",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 4,
+   "end_slot": 4,
+   "start": "11:30",
+   "end": "12:20",
+   "course_code": "MAT121",
+   "teacher_code": "NA",
+   "teacher_id": "nahida-akter",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 1,
+   "end_slot": 1,
+   "start": "09:00",
+   "end": "09:50",
+   "course_code": "PHY135",
+   "teacher_code": "MHK",
+   "teacher_id": "halima-khatun",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "MAT121",
+   "teacher_code": "NA",
+   "teacher_id": "nahida-akter",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 4,
+   "end_slot": 4,
+   "start": "11:30",
+   "end": "12:20",
+   "course_code": "MAT111",
+   "teacher_code": "DK",
+   "teacher_id": "dipankar-kumar",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "1-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "ENG125",
+   "teacher_code": "SuA",
+   "teacher_id": "sumia-alam",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 3,
+   "end_slot": 4,
+   "start": "10:40",
+   "end": "12:20",
+   "course_code": "MAT200",
+   "teacher_code": "MRK",
+   "teacher_id": "rozina-khatun",
+   "room": "LAB",
+   "is_lab": true
+  },
+  {
+   "class": "2-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 6,
+   "end_slot": 7,
+   "start": "13:30",
+   "end": "15:10",
+   "course_code": "PHY235",
+   "teacher_code": "NEA",
+   "teacher_id": "nur-e-asrafi",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "MAT221",
+   "teacher_code": "SY",
+   "teacher_id": "sabina-yeasmin",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "MAT211",
+   "teacher_code": "FAS",
+   "teacher_id": "faria-ahmed",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 6,
+   "end_slot": 7,
+   "start": "13:30",
+   "end": "15:10",
+   "course_code": "STA245",
+   "teacher_code": "BB",
+   "teacher_id": "biplab-bishwas",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "AIS225",
+   "teacher_code": "AUZ",
+   "teacher_id": "ashik-uz-zaman",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "MAT211",
+   "teacher_code": "FAS",
+   "teacher_id": "faria-ahmed",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 6,
+   "end_slot": 7,
+   "start": "13:30",
+   "end": "15:10",
+   "course_code": "STA246",
+   "teacher_code": "BB",
+   "teacher_id": "biplab-bishwas",
+   "room": "LAB",
+   "is_lab": true
+  },
+  {
+   "class": "2-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "MAT221",
+   "teacher_code": "SY",
+   "teacher_id": "sabina-yeasmin",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "MAT211",
+   "teacher_code": "FAS",
+   "teacher_id": "faria-ahmed",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 6,
+   "end_slot": 6,
+   "start": "13:30",
+   "end": "14:20",
+   "course_code": "PHY235",
+   "teacher_code": "NEA",
+   "teacher_id": "nur-e-asrafi",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 7,
+   "end_slot": 7,
+   "start": "14:20",
+   "end": "15:10",
+   "course_code": "MAT201",
+   "teacher_code": "SCP",
+   "teacher_id": "suman-chandra-paul",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "AIS225",
+   "teacher_code": "AUZ",
+   "teacher_id": "ashik-uz-zaman",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 6,
+   "end_slot": 7,
+   "start": "13:30",
+   "end": "15:10",
+   "course_code": "MAT201",
+   "teacher_code": "SCP",
+   "teacher_id": "suman-chandra-paul",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "PHY236",
+   "teacher_code": "NEA",
+   "teacher_id": "nur-e-asrafi",
+   "room": "R308",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "CSE287",
+   "teacher_code": "ABMA",
+   "teacher_id": "abu-bakkar-muhammad-abdullah",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 3,
+   "end_slot": 4,
+   "start": "10:40",
+   "end": "12:20",
+   "course_code": "MAT271",
+   "teacher_code": "DK",
+   "teacher_id": "dipankar-kumar",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "PHY295",
+   "teacher_code": "MHK",
+   "teacher_id": "halima-khatun",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "MAT271",
+   "teacher_code": "DK",
+   "teacher_id": "dipankar-kumar",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 3,
+   "end_slot": 3,
+   "start": "10:40",
+   "end": "11:30",
+   "course_code": "CSE287",
+   "teacher_code": "ABMA",
+   "teacher_id": "abu-bakkar-muhammad-abdullah",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 4,
+   "end_slot": 4,
+   "start": "11:30",
+   "end": "12:20",
+   "course_code": "ECO277",
+   "teacher_code": "RH",
+   "teacher_id": "rakibul-hasan",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "MAT261",
+   "teacher_code": "SY",
+   "teacher_id": "sabina-yeasmin",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "ECO277",
+   "teacher_code": "RH",
+   "teacher_id": "rakibul-hasan",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 3,
+   "end_slot": 4,
+   "start": "10:40",
+   "end": "12:20",
+   "course_code": "MAT251",
+   "teacher_code": "NA",
+   "teacher_id": "nahida-akter",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "PHY295",
+   "teacher_code": "MHK",
+   "teacher_id": "halima-khatun",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 1,
+   "end_slot": 2,
+   "start": "09:00",
+   "end": "10:40",
+   "course_code": "MAT272",
+   "teacher_code": "DK",
+   "teacher_id": "dipankar-kumar",
+   "room": "LAB",
+   "is_lab": true
+  },
+  {
+   "class": "2-2",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 3,
+   "end_slot": 4,
+   "start": "10:40",
+   "end": "12:20",
+   "course_code": "CSE288",
+   "teacher_code": "ABMA",
+   "teacher_id": "abu-bakkar-muhammad-abdullah",
+   "room": "LAB",
+   "is_lab": true
+  },
+  {
+   "class": "2-2",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "MAT261",
+   "teacher_code": "SY",
+   "teacher_id": "sabina-yeasmin",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "ECO277",
+   "teacher_code": "RH",
+   "teacher_id": "rakibul-hasan",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 3,
+   "end_slot": 3,
+   "start": "10:40",
+   "end": "11:30",
+   "course_code": "MAT251",
+   "teacher_code": "NA",
+   "teacher_id": "nahida-akter",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 4,
+   "end_slot": 4,
+   "start": "11:30",
+   "end": "12:20",
+   "course_code": "MAT261",
+   "teacher_code": "SY",
+   "teacher_id": "sabina-yeasmin",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "2-2",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "PHY295",
+   "teacher_code": "MHK",
+   "teacher_id": "halima-khatun",
+   "room": "R312",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 1,
+   "end_slot": 1,
+   "start": "09:00",
+   "end": "09:50",
+   "course_code": "MAT353",
+   "teacher_code": "SCR",
+   "teacher_id": "samir-chandra-ray",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "MAT363",
+   "teacher_code": "SA",
+   "teacher_id": "shamima-akter",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 3,
+   "end_slot": 3,
+   "start": "10:40",
+   "end": "11:30",
+   "course_code": "MAT373",
+   "teacher_code": "MS",
+   "teacher_id": "mitu-sultana",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 4,
+   "end_slot": 4,
+   "start": "11:30",
+   "end": "12:20",
+   "course_code": "MAT393",
+   "teacher_code": "SCP",
+   "teacher_id": "suman-chandra-paul",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "MAT373",
+   "teacher_code": "MS",
+   "teacher_id": "mitu-sultana",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "MAT353",
+   "teacher_code": "SCR",
+   "teacher_id": "samir-chandra-ray",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 3,
+   "end_slot": 3,
+   "start": "10:40",
+   "end": "11:30",
+   "course_code": "MAT373",
+   "teacher_code": "MS",
+   "teacher_id": "mitu-sultana",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 4,
+   "end_slot": 5,
+   "start": "11:30",
+   "end": "13:10",
+   "course_code": "CSE396",
+   "teacher_code": "MNH",
+   "teacher_id": "nesarul-haque",
+   "room": "LAB",
+   "is_lab": true
+  },
+  {
+   "class": "3-2",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 2,
+   "end_slot": 2,
+   "start": "09:50",
+   "end": "10:40",
+   "course_code": "MAT363",
+   "teacher_code": "SA",
+   "teacher_id": "shamima-akter",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 3,
+   "end_slot": 4,
+   "start": "10:40",
+   "end": "12:20",
+   "course_code": "MAT382",
+   "teacher_code": "MMI",
+   "teacher_id": "minarul-islam",
+   "room": "LAB",
+   "is_lab": true
+  },
+  {
+   "class": "3-2",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "CSE395",
+   "teacher_code": "MNH",
+   "teacher_id": "nesarul-haque",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 1,
+   "end_slot": 1,
+   "start": "09:00",
+   "end": "09:50",
+   "course_code": "MAT353",
+   "teacher_code": "SCR",
+   "teacher_id": "samir-chandra-ray",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 3,
+   "end_slot": 4,
+   "start": "10:40",
+   "end": "12:20",
+   "course_code": "MAT381",
+   "teacher_code": "MMI",
+   "teacher_id": "minarul-islam",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "CSE395",
+   "teacher_code": "MNH",
+   "teacher_id": "nesarul-haque",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 2,
+   "end_slot": 3,
+   "start": "09:50",
+   "end": "11:30",
+   "course_code": "MAT393",
+   "teacher_code": "SCP",
+   "teacher_id": "suman-chandra-paul",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 4,
+   "end_slot": 4,
+   "start": "11:30",
+   "end": "12:20",
+   "course_code": "MAT381",
+   "teacher_code": "MMI",
+   "teacher_id": "minarul-islam",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "3-2",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 5,
+   "end_slot": 5,
+   "start": "12:20",
+   "end": "13:10",
+   "course_code": "MAT363",
+   "teacher_code": "SA",
+   "teacher_id": "shamima-akter",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 6,
+   "end_slot": 6,
+   "start": "13:30",
+   "end": "14:20",
+   "course_code": "MAT441",
+   "teacher_code": "MRK",
+   "teacher_id": "rozina-khatun",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 7,
+   "end_slot": 7,
+   "start": "14:20",
+   "end": "15:10",
+   "course_code": "MAT421",
+   "teacher_code": "SA",
+   "teacher_id": "shamima-akter",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Sunday",
+   "day_bn": "রবিবার",
+   "day_index": 0,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "MAT401",
+   "teacher_code": "MMI",
+   "teacher_id": "minarul-islam",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 6,
+   "end_slot": 6,
+   "start": "13:30",
+   "end": "14:20",
+   "course_code": "MAT411",
+   "teacher_code": "MRI",
+   "teacher_id": "rafiqul-islam",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Monday",
+   "day_bn": "সোমবার",
+   "day_index": 1,
+   "start_slot": 7,
+   "end_slot": 8,
+   "start": "14:20",
+   "end": "16:00",
+   "course_code": "MAT401",
+   "teacher_code": "MMI",
+   "teacher_id": "minarul-islam",
+   "room": "LAB",
+   "is_lab": true
+  },
+  {
+   "class": "4-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 6,
+   "end_slot": 6,
+   "start": "13:30",
+   "end": "14:20",
+   "course_code": "MAT441",
+   "teacher_code": "MRK",
+   "teacher_id": "rozina-khatun",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 7,
+   "end_slot": 7,
+   "start": "14:20",
+   "end": "15:10",
+   "course_code": "MAT421",
+   "teacher_code": "SA",
+   "teacher_id": "shamima-akter",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Tuesday",
+   "day_bn": "মঙ্গলবার",
+   "day_index": 2,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "MAT403",
+   "teacher_code": "SCP",
+   "teacher_id": "suman-chandra-paul",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 6,
+   "end_slot": 6,
+   "start": "13:30",
+   "end": "14:20",
+   "course_code": "MAT411",
+   "teacher_code": "MRI",
+   "teacher_id": "rafiqul-islam",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 7,
+   "end_slot": 7,
+   "start": "14:20",
+   "end": "15:10",
+   "course_code": "MAT431",
+   "teacher_code": "SI",
+   "teacher_id": "saiful-islam",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Wednesday",
+   "day_bn": "বুধবার",
+   "day_index": 3,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "MAT403",
+   "teacher_code": "SCP",
+   "teacher_id": "suman-chandra-paul",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 6,
+   "end_slot": 6,
+   "start": "13:30",
+   "end": "14:20",
+   "course_code": "MAT411",
+   "teacher_code": "MRI",
+   "teacher_id": "rafiqul-islam",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 7,
+   "end_slot": 7,
+   "start": "14:20",
+   "end": "15:10",
+   "course_code": "MAT431",
+   "teacher_code": "SI",
+   "teacher_id": "saiful-islam",
+   "room": "R311",
+   "is_lab": false
+  },
+  {
+   "class": "4-1",
+   "day": "Thursday",
+   "day_bn": "বৃহস্পতিবার",
+   "day_index": 4,
+   "start_slot": 8,
+   "end_slot": 8,
+   "start": "15:10",
+   "end": "16:00",
+   "course_code": "MAT421",
+   "teacher_code": "SA",
+   "teacher_id": "shamima-akter",
+   "room": "R311",
+   "is_lab": false
+  }
+ ]
+}
