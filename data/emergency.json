@@ -1,0 +1,8 @@
+{
+  "note": "জরুরি নম্বর। phone ঘরে নম্বর বসান (GitHub এ এই ফাইল Edit করে)। ফাঁকা থাকলে আলী ভাই 'নম্বর এখনো যোগ করা হয়নি' বলবে।",
+  "items": [
+    {"key": "medical", "title": "মেডিকেল অফিসার", "name": "", "phone": "", "note": ""},
+    {"key": "ambulance", "title": "বিশ্ববিদ্যালয়ের অ্যাম্বুলেন্স", "name": "", "phone": "", "note": ""},
+    {"key": "transport", "title": "পরিবহন শাখা", "name": "", "phone": "", "note": ""}
+  ]
+}

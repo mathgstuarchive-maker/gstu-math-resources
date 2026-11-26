@@ -1,0 +1,13 @@
+{
+  "note": "code = বর্ষ.সেমিস্টার (যেমন 1.1 = 1st year 1st semester)। phone ফাঁকা মানে নম্বর পাওয়া যায়নি।",
+  "crs": [
+    {"name": "Mujahid", "role": "CR", "code": "1.1", "class": "1-1", "phone": "01891831382"},
+    {"name": "Tina Rani Das", "role": "ACR", "code": "1.1", "class": "1-1", "phone": "01928988271"},
+    {"name": "Hazbul Sheikh", "role": "CR", "code": "3.1", "class": "3-1", "phone": "01310298384"},
+    {"name": "Sumi", "role": "ACR", "code": "3.1", "class": "3-1", "phone": ""},
+    {"name": "Abida Haque Prapti", "role": "ACR", "code": "4.1", "class": "4-1", "phone": "01924752929"},
+    {"name": "Ibrahim Hosen", "role": "CR", "code": "4.2", "class": "4-2", "phone": ""},
+    {"name": "Md. Somrat Gazi", "role": "ACR", "code": "4.2", "class": "4-2", "phone": "01784545797"},
+    {"name": "Naeem Monker", "role": "CR", "code": "5.1", "class": "5-1", "phone": "01992351511"}
+  ]
+}

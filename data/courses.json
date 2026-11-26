@@ -1,0 +1,764 @@
+{
+ "meta": {
+  "source": "B.Sc. in Mathematics curriculum (GSTU), Part B scheme pages 30-36 of 262",
+  "how_to_read": "code দিয়ে routines.json এর course_code মেলানো যাবে। optional=true মানে ঐচ্ছিক কোর্স (৪র্থ বর্ষে বিভাগের অনুমোদনে দুটি বেছে নিতে হয়)। type: theory/lab/viva/project/field_trip।",
+  "notes": [
+   "৪-১ এ বাধ্যতামূলক: MAT401, MAT403, MAT411, MAT448, MAT449 ও আরও দুটি ঐচ্ছিক।",
+   "৪-২ এ বাধ্যতামূলক: MAT473, MAT474, MAT481, MAT498, MAT499 ও আরও দুটি ঐচ্ছিক।",
+   "এটি কেবল ৪ বছরের B.Sc. কারিকুলাম; ৫-১ (পঞ্চম বর্ষ) এই ফাইলে নেই।",
+   "শুধু কোডের তালিকা; অধ্যায়/সিলেবাসের বিস্তারিত এখনো নেওয়া হয়নি।"
+  ]
+ },
+ "courses": [
+  {
+   "code": "MAT100",
+   "title": "Math Lab-I",
+   "credits": 1.0,
+   "class": "1-1",
+   "year": 1,
+   "semester": 1,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT101",
+   "title": "Algebra and Trigonometry",
+   "credits": 3.0,
+   "class": "1-1",
+   "year": 1,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT111",
+   "title": "Differential Calculus",
+   "credits": 3.0,
+   "class": "1-1",
+   "year": 1,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT121",
+   "title": "Geometry of Two Dimensions",
+   "credits": 3.0,
+   "class": "1-1",
+   "year": 1,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "ENG125",
+   "title": "Functional English",
+   "credits": 2.0,
+   "class": "1-1",
+   "year": 1,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "PHY135",
+   "title": "Mechanics, Waves and Vibration",
+   "credits": 3.0,
+   "class": "1-1",
+   "year": 1,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "STA145",
+   "title": "Principles of Statistics",
+   "credits": 3.0,
+   "class": "1-1",
+   "year": 1,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT149",
+   "title": "Viva Voce",
+   "credits": 1.0,
+   "class": "1-1",
+   "year": 1,
+   "semester": 1,
+   "type": "viva",
+   "optional": false
+  },
+  {
+   "code": "MAT150",
+   "title": "Math Lab-II",
+   "credits": 1.0,
+   "class": "1-2",
+   "year": 1,
+   "semester": 2,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT153",
+   "title": "Geometry of Three Dimensions",
+   "credits": 3.0,
+   "class": "1-2",
+   "year": 1,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT163",
+   "title": "Integral Calculus",
+   "credits": 3.0,
+   "class": "1-2",
+   "year": 1,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT173",
+   "title": "Set Theory and Matrices",
+   "credits": 3.0,
+   "class": "1-2",
+   "year": 1,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "BLB177",
+   "title": "Bangabandhu, Liberation War and Bangladesh Studies",
+   "credits": 2.0,
+   "class": "1-2",
+   "year": 1,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "PHY187",
+   "title": "Thermal Physics",
+   "credits": 3.0,
+   "class": "1-2",
+   "year": 1,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "STA197",
+   "title": "Probability Theory and Inference",
+   "credits": 3.0,
+   "class": "1-2",
+   "year": 1,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT199",
+   "title": "Viva Voce",
+   "credits": 1.0,
+   "class": "1-2",
+   "year": 1,
+   "semester": 2,
+   "type": "viva",
+   "optional": false
+  },
+  {
+   "code": "MAT200",
+   "title": "Math Lab-III",
+   "credits": 1.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT201",
+   "title": "Advanced Calculus",
+   "credits": 3.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT211",
+   "title": "Linear Algebra",
+   "credits": 3.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT221",
+   "title": "Vector Analysis",
+   "credits": 2.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "AIS225",
+   "title": "Principles of Accounting",
+   "credits": 2.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "PHY235",
+   "title": "Electricity and Magnetism",
+   "credits": 3.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "PHY236",
+   "title": "Physics Lab",
+   "credits": 1.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "STA245",
+   "title": "Analysis of Variance and Sampling",
+   "credits": 2.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "STA246",
+   "title": "Statistics Lab",
+   "credits": 1.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT249",
+   "title": "Viva Voce",
+   "credits": 1.0,
+   "class": "2-1",
+   "year": 2,
+   "semester": 1,
+   "type": "viva",
+   "optional": false
+  },
+  {
+   "code": "MAT251",
+   "title": "Discrete Mathematics",
+   "credits": 3.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT261",
+   "title": "Ordinary Differential Equations",
+   "credits": 3.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT271",
+   "title": "Programming with FORTRAN",
+   "credits": 2.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT272",
+   "title": "Programming with FORTRAN Lab",
+   "credits": 1.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "ECO277",
+   "title": "Principles of Economics",
+   "credits": 3.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "CSE287",
+   "title": "Programming with C/C++",
+   "credits": 2.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "CSE288",
+   "title": "Programming with C/C++ Lab",
+   "credits": 1.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "PHY295",
+   "title": "Optics and Modern Physics",
+   "credits": 3.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT299",
+   "title": "Viva Voce",
+   "credits": 1.0,
+   "class": "2-2",
+   "year": 2,
+   "semester": 2,
+   "type": "viva",
+   "optional": false
+  },
+  {
+   "code": "MAT300",
+   "title": "Math Lab-IV",
+   "credits": 1.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT301",
+   "title": "Tensor Analysis",
+   "credits": 2.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT311",
+   "title": "Complex Analysis",
+   "credits": 3.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT321",
+   "title": "Partial Differential Equations",
+   "credits": 3.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT331",
+   "title": "Mechanics",
+   "credits": 3.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT341",
+   "title": "Real Analysis-I",
+   "credits": 3.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "CSE345",
+   "title": "Database Management Systems",
+   "credits": 2.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "CSE346",
+   "title": "Database Management Systems Lab",
+   "credits": 1.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT349",
+   "title": "Viva Voce",
+   "credits": 1.0,
+   "class": "3-1",
+   "year": 3,
+   "semester": 1,
+   "type": "viva",
+   "optional": false
+  },
+  {
+   "code": "MAT353",
+   "title": "Abstract Algebra",
+   "credits": 3.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT363",
+   "title": "Classical Mechanics",
+   "credits": 3.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT373",
+   "title": "Mathematical Methods",
+   "credits": 2.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT381",
+   "title": "Numerical Analysis",
+   "credits": 3.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT382",
+   "title": "Numerical Analysis Lab",
+   "credits": 1.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT393",
+   "title": "Real Analysis-II",
+   "credits": 3.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "CSE395",
+   "title": "Data Structure and Algorithm",
+   "credits": 2.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "CSE396",
+   "title": "Data Structure and Algorithm Lab",
+   "credits": 1.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT399",
+   "title": "Viva Voce",
+   "credits": 1.0,
+   "class": "3-2",
+   "year": 3,
+   "semester": 2,
+   "type": "viva",
+   "optional": false
+  },
+  {
+   "code": "MAT401",
+   "title": "Differential Geometry",
+   "credits": 3.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT403",
+   "title": "Topology",
+   "credits": 3.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT411",
+   "title": "Hydrodynamics",
+   "credits": 3.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT448",
+   "title": "Field Trip and Report Writing",
+   "credits": 2.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "field_trip",
+   "optional": false
+  },
+  {
+   "code": "MAT449",
+   "title": "Viva Voce",
+   "credits": 1.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "viva",
+   "optional": false
+  },
+  {
+   "code": "MAT421",
+   "title": "Integral Equations",
+   "credits": 3.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT431",
+   "title": "Linear Programming",
+   "credits": 3.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT441",
+   "title": "Meteorology",
+   "credits": 3.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT443",
+   "title": "Special Functions",
+   "credits": 3.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT445",
+   "title": "Mathematical Neurology",
+   "credits": 3.0,
+   "class": "4-1",
+   "year": 4,
+   "semester": 1,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT473",
+   "title": "Numerical Methods for Boundary Value Problems",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT474",
+   "title": "Numerical Methods for Boundary Value Problems Lab",
+   "credits": 1.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "lab",
+   "optional": false
+  },
+  {
+   "code": "MAT481",
+   "title": "Theory of Numbers",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": false
+  },
+  {
+   "code": "MAT498",
+   "title": "Project Paper",
+   "credits": 4.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "project",
+   "optional": false
+  },
+  {
+   "code": "MAT499",
+   "title": "Viva Voce",
+   "credits": 1.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "viva",
+   "optional": false
+  },
+  {
+   "code": "MAT451",
+   "title": "Astronomy",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT453",
+   "title": "Axiomatic Geometry",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT461",
+   "title": "Fuzzy Mathematics",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT463",
+   "title": "Mathematical Hydrology",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT471",
+   "title": "Population Dynamics and Mathematical Modeling",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT483",
+   "title": "Functional Analysis",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": true
+  },
+  {
+   "code": "MAT485",
+   "title": "Stochastic Modelling",
+   "credits": 3.0,
+   "class": "4-2",
+   "year": 4,
+   "semester": 2,
+   "type": "theory",
+   "optional": true
+  }
+ ]
+}
